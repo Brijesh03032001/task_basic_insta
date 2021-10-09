@@ -20,7 +20,7 @@ Posts should have the following Attributes:-
 * Image URL
 * Posted Timestamp
 
-These all structures are stored into the users and posts structure array and then i use the #### For Loop #### to match which all posts are related to the specific user and hence 
+These all structures are stored into the users and posts structure array and then i use the *For Loop* to match which all posts are related to the specific user and hence 
 I am able to list down all the posts for the particular user.
 
 
