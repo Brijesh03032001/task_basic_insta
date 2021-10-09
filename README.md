@@ -13,3 +13,11 @@ Users should have the following attributes-
 * Password
 
 
+POST Structure:
+Posts should have the following Attributes. 
+* Id
+* Caption
+* Image URL
+* Posted Timestamp
+
+
